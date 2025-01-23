@@ -1,11 +1,10 @@
-crewai[tools]
-torch>=2.2.0
-ollama
 streamlit==1.28.0
-transformers==4.35.2
-opencv-python-headless==4.8.1.78
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.1+cpu
+transformers==4.37.2
+opencv-python-headless==4.9.0.80
 openai-whisper==20231117
-pillow==10.1.0
-numpy==1.26.2
-yt-dlp==2023.12.30
+pillow==10.2.0
+numpy==1.26.3
+yt-dlp==2024.1.1
 python-dotenv==1.0.0
