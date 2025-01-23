@@ -1,0 +1,11 @@
+crewai[tools]
+python-dotenv
+ollama
+streamlit==1.28.0
+torch==2.1.1
+transformers==4.35.2
+opencv-python-headless==4.8.1.78
+openai-whisper==20231117
+pillow==10.1.0
+numpy==1.26.2
+yt-dlp==2023.12.30
